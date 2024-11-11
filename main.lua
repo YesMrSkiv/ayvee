@@ -1,4 +1,4 @@
---// thanks to @yellowgreg (https://rscripts.net/@yellowgreg) for the gun scripts
+
 --// AYZEE on top
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
