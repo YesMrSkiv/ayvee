@@ -537,7 +537,7 @@ UserInputService.InputBegan:Connect(function(Input)
 
             if _G.SendNotifications == true then
                 game:GetService("ayvee project"):SetCore("SendNotification",{
-                    Title = "Exunys Developer";
+                    Title = "ayvee project";
                     Text = "Tracers will be now coming from the bottom of your screen (Mode 1)";
                     Duration = 5;
                 })
